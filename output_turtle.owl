@@ -1,0 +1,100 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+foaf:Angada a foaf:Person ;
+    foaf:hasID "12" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Ally" .
+
+foaf:Bharata a foaf:Person ;
+    foaf:hasID "6" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Brother" .
+
+foaf:Dasharatha a foaf:Person ;
+    foaf:hasID "4" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Father" .
+
+foaf:Hanuman a foaf:Person ;
+    foaf:hasID "8" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Devotee" .
+
+foaf:Jatayu a foaf:Person ;
+    foaf:hasID "11" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Ally" .
+
+foaf:Kaikeyi a foaf:Person ;
+    foaf:hasID "20" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Stepmother" .
+
+foaf:Kaushalya a foaf:Person ;
+    foaf:hasID "5" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Mother" .
+
+foaf:Kumbhakarna a foaf:Person ;
+    foaf:hasID "15" ;
+    foaf:hasRelationship <http://example.com/ontology#14> ;
+    foaf:relationship "Brother_of_Ravana" .
+
+foaf:Lakshmana a foaf:Person ;
+    foaf:hasID "2" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Brother" .
+
+foaf:Maricha a foaf:Person ;
+    foaf:hasID "17" ;
+    foaf:hasRelationship <http://example.com/ontology#14> ;
+    foaf:relationship "Ally_of_Ravana" .
+
+foaf:Rama a foaf:Person ;
+    foaf:hasID "1" .
+
+foaf:Ravana a foaf:Person ;
+    foaf:hasID "14" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Adversary" .
+
+foaf:Shatrughna a foaf:Person ;
+    foaf:hasID "7" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Brother" .
+
+foaf:Shurpanakha a foaf:Person ;
+    foaf:hasID "16" ;
+    foaf:hasRelationship <http://example.com/ontology#14> ;
+    foaf:relationship "Sister_of_Ravana" .
+
+foaf:Sita a foaf:Person ;
+    foaf:hasID "3" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Wife" .
+
+foaf:Sugriva a foaf:Person ;
+    foaf:hasID "10" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Ally" .
+
+foaf:Sumitra a foaf:Person ;
+    foaf:hasID "19" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Stepmother" .
+
+foaf:Vali a foaf:Person ;
+    foaf:hasID "13" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Adversary" .
+
+foaf:Vibhishana a foaf:Person ;
+    foaf:hasID "9" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Ally" .
+
+foaf:Vishvamitra a foaf:Person ;
+    foaf:hasID "18" ;
+    foaf:hasRelationship <http://example.com/ontology#1> ;
+    foaf:relationship "Mentor" .
+
