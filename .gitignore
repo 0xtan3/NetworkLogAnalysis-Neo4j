@@ -1,0 +1,31 @@
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+.ENV/
+env.bak/
+env/
+venv.bak/
+ENV/
+env/
+env2/
+venv2/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python data science related directories
+__pycache__/
+.cache/
+.cache/
+data/
+output/
+results/
+logs/
+
+# CSV files
+*.csv
+
