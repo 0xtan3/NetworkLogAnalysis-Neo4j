@@ -8,5 +8,5 @@ load_dotenv()
 dataset_dir = './data'
 
 config.DATABASE_URL=os.getenv("NEO4J_BOLT_URL")
-data = pd.read_csv(os.path.join(dataset_dir,'<file.csv>'))
+data = pd.read_csv(os.path.join(dataset_dir,'Trojan_Detection.csv'))
 
