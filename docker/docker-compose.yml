@@ -2,6 +2,7 @@ services:
   neo4j:
     image: neo4j:latest
     container_name: neo4j
+    user: neo4j
     env_file:
       - .env
     environment:
