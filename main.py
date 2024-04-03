@@ -1,12 +1,17 @@
 import os
 import pandas as pd
-from dotenv import load_dotenv
-from neomodel import StringProperty,StructuredNode,RelationshipTo,UniqueIdProperty,config
+from falkordb import FalkorDB
 
-load_dotenv()
+db = FalkorDB(host='localhost', port=6379)
 
 dataset_dir = './data'
 
-config.DATABASE_URL=os.getenv("NEO4J_BOLT_URL")
-data = pd.read_csv(os.path.join(dataset_dir,'<file.csv>'))
+def main(
+    data = pd.read_csv(os.path.join(dataset_dir,'<file.csv>'))
 
+    for 
+)
+
+
+if __name__ == "__main__":
+    main()
