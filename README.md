@@ -1,4 +1,4 @@
-```markdown
+
 # knowledge_graphs
 
 This project utilizes Falkordb for data analysis, focusing on finding patterns between different data and their corelation which corresponds to a single event.
@@ -28,5 +28,5 @@ This project utilizes Falkordb for data analysis, focusing on finding patterns b
    ```bash
    ./setup.sh
    ```
-```
+
 
